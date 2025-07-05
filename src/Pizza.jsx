@@ -1,4 +1,3 @@
-import { useState } from "react";
 const Pizza = (props) => {
     // counter = counter++;
   return (
